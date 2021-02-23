@@ -1,0 +1,52 @@
+{
+    "Header": {
+
+        "title": "Betnation",
+        "paragraph": "The most favourite Sports Betting Dapp"
+
+    },
+    "About": {
+        "paragraph": "Betnation is a blockchain based cricket betting dapp",
+        "Why": [
+            "Cricket Betting",
+            "Decentralised",
+            "Predictive Markets",
+            "Easy Money Processing"
+        ],
+        "Why2": [
+            "Easy to use",
+            "Easy to track payments"
+            
+        ]
+    },
+    
+    "Contact": {
+        "address": "Mumbai,Maharashtra,India ",
+        "phone": "1234567890",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "img/features/rupee.jpg",
+            "title": "Cricket Betting",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "img/features/progress.jpg",
+            "title": "Predictive Markets",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "img/features/bounty.jpg",
+            "title": "Easy Money processing",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "img/features/storage.jpg",
+            "title": "Decentralised",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ]
+}
