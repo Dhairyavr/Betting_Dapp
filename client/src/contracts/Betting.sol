@@ -45,7 +45,15 @@ contract Betting is ChainlinkClient
     
     event PollRegistered(uint pollid,string question,bool flag);
     
+    function getpolldetails(uint pollid)public view returns(string memory,uint)
+    {
+        return (allpolls[pollid].question,allpolls[pollid].matchid);
+    }
     
+    function getpollstatus(uint pollid)public view returns(bool)
+    {
+        return allpolls[pollid].flag;
+    }
     
   
     function getwinner(uint pollid)public view returns(uint)

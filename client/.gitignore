@@ -24,3 +24,6 @@ yarn-error.log*
 
 #config
 .conf
+
+#token
+token.js
